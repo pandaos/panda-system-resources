@@ -4,3 +4,4 @@ project(panda-system-themes)
 include(FeatureSummary)
 
 add_subdirectory(icon-theme)
+add_subdirectory(wallpapers)

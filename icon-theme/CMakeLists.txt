@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 project(panda-icon-theme)
 
+# install icon theme.
 install(DIRECTORY actions DESTINATION /usr/share/icons/panda/)
 install(DIRECTORY animations DESTINATION /usr/share/icons/panda/)
 install(DIRECTORY apps DESTINATION /usr/share/icons/panda/)
