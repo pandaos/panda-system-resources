@@ -1,0 +1,6 @@
+/home/panda/Projects/panda-icon-theme/build/CMakeFiles/rebuild_cache.dir
+/home/panda/Projects/panda-icon-theme/build/CMakeFiles/install/strip.dir
+/home/panda/Projects/panda-icon-theme/build/CMakeFiles/install/local.dir
+/home/panda/Projects/panda-icon-theme/build/CMakeFiles/edit_cache.dir
+/home/panda/Projects/panda-icon-theme/build/CMakeFiles/list_install_components.dir
+/home/panda/Projects/panda-icon-theme/build/CMakeFiles/install.dir
