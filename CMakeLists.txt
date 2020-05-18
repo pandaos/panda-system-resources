@@ -5,4 +5,4 @@ include(FeatureSummary)
 
 add_subdirectory(icon-theme)
 add_subdirectory(wallpapers)
-add_subdirectory(cursors)
+# add_subdirectory(cursors)
