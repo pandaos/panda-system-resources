@@ -8,3 +8,7 @@ This project contains icon themes, gtk themes, system wallpapers, and possibly o
 cmake
 sudo make install
 ```
+
+## License
+
+panda-themes is licensed under GPLv3.
