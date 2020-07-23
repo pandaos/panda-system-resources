@@ -1727,7 +1727,7 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       id="a-3"
+       id="hellorekols"
        gradientUnits="userSpaceOnUse"
        x1="423.61072"
        x2="422.88239"
@@ -1766,10 +1766,10 @@
      transform="matrix(0.05798713,0,0,0.05798713,-12.675607,-27.64922)"
      id="g15">
     <circle
-       style="fill:url(#a-3)"
+       style="fill:url(#hellorekols)"
        cx="423.5881"
        cy="555.00751"
-       fill="url(#a)"
+       fill="url(#hellorekols)"
        fill-opacity="1"
        fill-rule="evenodd"
        r="25.426903"
