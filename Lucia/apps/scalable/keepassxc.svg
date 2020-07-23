@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="file-manager.svg"
+   sodipodi:docname="keepassxc.svg"
    id="svg180"
    viewBox="0 0 16.933 16.933"
    version="1.1"
@@ -28,16 +28,16 @@
   </metadata>
   <sodipodi:namedview
      inkscape:current-layer="svg180"
-     inkscape:window-maximized="0"
-     inkscape:window-y="68"
-     inkscape:window-x="289"
+     inkscape:window-maximized="1"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
      inkscape:cy="32"
-     inkscape:cx="29.647441"
+     inkscape:cx="46.118"
      inkscape:zoom="11.171875"
      showgrid="false"
      id="namedview182"
-     inkscape:window-height="893"
-     inkscape:window-width="1527"
+     inkscape:window-height="941"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -515,15 +515,26 @@
      x="1.0583"
      style="fill:#6cac4d;fill-opacity:1" />
   <g
-     id="g16"
-     transform="matrix(0.4329282,0,0,0.4329282,1.5396488,1.5396488)">
+     style="opacity:0.2"
+     transform="matrix(0.43293801,0,0,0.42331324,1.5394921,1.7993164)"
+     id="g10">
     <path
-       id="path12"
        d="m 16,5 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,1 a 2.9999997,2.9999997 0 0 1 3,3 2.9999997,2.9999997 0 0 1 -3,3 2.9999997,2.9999997 0 0 1 -3,-3 2.9999997,2.9999997 0 0 1 3,-3 z"
-       style="fill:#ffffff" />
+       id="path6" />
     <path
-       id="path14"
        d="m 13,15 v 9.933594 L 16,27 19,24.933594 v -0.867188 l 1,-1 -1,-1 V 21 L 21,19.5 19,18 v -3 z m 1,3 h 1 v 6 h -1 z"
-       style="fill:#ffffff" />
+       id="path8" />
+  </g>
+  <g
+     transform="matrix(0.43293801,0,0,0.42331324,1.5394921,1.5876598)"
+     id="g16-3">
+    <path
+       style="fill:#ffffff"
+       d="m 16,5 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,1 a 2.9999997,2.9999997 0 0 1 3,3 2.9999997,2.9999997 0 0 1 -3,3 2.9999997,2.9999997 0 0 1 -3,-3 2.9999997,2.9999997 0 0 1 3,-3 z"
+       id="path12-6" />
+    <path
+       style="fill:#ffffff"
+       d="m 13,15 v 9.933594 L 16,27 19,24.933594 v -0.867188 l 1,-1 -1,-1 V 21 L 21,19.5 19,18 v -3 z m 1,3 h 1 v 6 h -1 z"
+       id="path14-7" />
   </g>
 </svg>
