@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Lucia-dark
-Comment=from vinceliuice/WhiteSur-icon-theme
-Inherits=Numix-Circle-Light,Adwaita,hicolor
+Comment=macOS style icon theme for linux.
+Inherits=Numix-Circle,Adwaita,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
